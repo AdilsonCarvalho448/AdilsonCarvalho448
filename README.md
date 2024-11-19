@@ -16,7 +16,7 @@ Sou desenvolvedor de software com foco em backend e full-stack. Estudante de Eng
 🔧 Tecnologias
 
     Linguagens: Java, JavaScript, Python, HTML, CSS
-    Frameworks: React, Node.js, Spring Boot, Django
+    Frameworks: React, Vue.js, Node.js, Spring Boot, Django, PHP(laravel)
     Banco de Dados: SQL, MSQL
     Ferramentas: Git, Docker, VSCode, Trello, Figma
     Metodologias: RUP, Agile, Scrum

@@ -23,7 +23,7 @@ Sou desenvolvedor de software com foco em backend e full-stack. Estudante de Eng
 
 🌱 O que estou aprendendo
 
-    Desenvolvimento Full-Stack com React
+    Desenvolvimento Full-Stack 
     Arquitetura backend escalável
     Ferramentas de DevOps
 
